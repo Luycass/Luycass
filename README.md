@@ -18,6 +18,6 @@ lidando tanto com **software** quanto **hardware**, além das aplicações que c
 Minha experiência inclui **Linux embarcado, processadores ARM** e integração de tecnologias voltadas para a área biomédica.  
 
 🎓 **Formação:**  
-- Eletrônica - *CEFET-BH*
+- Eletrônica - *CEFET-MG*
 
 
