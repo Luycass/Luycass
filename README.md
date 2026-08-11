@@ -3,11 +3,11 @@
 <div align="center">
   <span><img src="https://github.com/user-attachments/assets/a0f928c1-5f1f-49a5-8bd9-e88b57655e8a" height="40" alt="c logo" /></span>
   &nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" /></span>
+  &nbsp;&nbsp;&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></span>
   &nbsp;&nbsp;&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo" /></span>
-  &nbsp;&nbsp;&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" /></span>
   &nbsp;&nbsp;&nbsp;
   <span><img src="https://github.com/user-attachments/assets/bf4fd7bd-4881-4b70-be59-e4b2e36f7445" height="40" alt="JS" /></span> &nbsp;&nbsp;&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /></span>
@@ -28,9 +28,10 @@ Minha experiência inclui **Linux embarcado, processadores ARM** e integração 
 ---
 
 <div align="center">
-  <h3>🎧 Tocando recentemente no Spotify</h3>
+  <h3> 🎧 Tocandas recentemente no Spotify</h3>
   <a href="https://open.spotify.com/user/e06atxpk4uqp11vmgzn6w0jrl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=e06atxpk4uqp11vmgzn6w0jrl&count=5&unique=true" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=e06atxpk4uqp11vmgzn6w0jrl&count=8&unique=true" alt="Spotify Recently Played" />
+  </a>
   </a>
 </div>
 
@@ -40,3 +41,7 @@ Minha experiência inclui **Linux embarcado, processadores ARM** e integração 
   <h3> Minhas Contribuições no GitHub</h3>
   <img src="https://raw.githubusercontent.com/Luycass/Luycass/output/snake.svg" alt="Snake Animation" />
 </div>
+
+<!--
+ use a referências à vontade, só não esquece de dar o Follow
+-->
