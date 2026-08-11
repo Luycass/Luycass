@@ -17,7 +17,7 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /></span>
 </div>
 
-Atualmente cursando **Tecníco em eletrônica no CEFET-MG**, trabalho no desenvolvimento de um **sistema embarcado para análise hematológica**, 
+Atualmente formado como **Tecníco em eletrônica no CEFET-MG**, trabalho no desenvolvimento de um **sistema embarcado para análise hematológica**, 
 lidando tanto com **software** quanto **hardware**, além das aplicações que conectam o equipamento ao fluxo de trabalho dos usuários.  
 
 Minha experiência inclui **Linux embarcado, processadores ARM** e integração de tecnologias voltadas para a área biomédica.  
