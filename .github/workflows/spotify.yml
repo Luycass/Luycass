@@ -9,6 +9,9 @@ jobs:
   update-readme:
     name: Update Readme with Spotify
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dá permissão para atualizar o README.md
+
     steps:
       - uses: actions/checkout@v3
       - uses: novathesheep/spotify-recently-played-readme@main
