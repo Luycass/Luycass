@@ -25,8 +25,18 @@ Minha experiência inclui **Linux embarcado, processadores ARM** e integração 
 🎓 **Formação:**  
 - Eletrônica - *CEFET-MG*
 
+---
+
 <div align="center">
+  <h3>🎧 Tocando recentemente no Spotify</h3>
   <a href="https://open.spotify.com/user/e06atxpk4uqp11vmgzn6w0jrl">
-    <img src="https://spotify-github-readme.vercel.app/api?user=e06atxpk4uqp11vmgzn6w0jrl" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=e06atxpk4uqp11vmgzn6w0jrl&count=5&unique=true" alt="Spotify Recently Played" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <h3> Minhas Contribuições no GitHub</h3>
+  <img src="https://raw.githubusercontent.com/Luycass/Luycass/output/snake.svg" alt="Snake Animation" />
 </div>
