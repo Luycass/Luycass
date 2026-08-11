@@ -27,4 +27,3 @@ Minha experiência inclui **Linux embarcado, processadores ARM** e integração 
 
 <!-- SPOTIFY-RECENTLY-PLAYED:START -->
 <!-- SPOTIFY-RECENTLY-PLAYED:END -->
-
