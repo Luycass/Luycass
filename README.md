@@ -28,7 +28,7 @@ Minha experiência inclui **Linux embarcado, processadores ARM** e integração 
 ---
 
 <div align="center">
-  <h3> 🎧 Tocandas recentemente no Spotify</h3>
+  <h3> 🎧 Tocandas recentemente no Spotify </h3>
   <a href="https://open.spotify.com/user/e06atxpk4uqp11vmgzn6w0jrl">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=e06atxpk4uqp11vmgzn6w0jrl&count=8&unique=true" alt="Spotify Recently Played" />
   </a>
