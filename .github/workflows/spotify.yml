@@ -2,8 +2,8 @@ name: Spotify Recently Played
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # Roda automaticamente a cada 1 hora
-  workflow_dispatch: # Permite rodar manualmente quando quiser
+    - cron: '0 */1 * * *' # Roda a cada hora
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   update-readme:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: novathesheep/spotify-github-readme@main
+      - uses: novathesheep/spotify-recently-played-readme@main
         with:
           spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
