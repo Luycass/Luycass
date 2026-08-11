@@ -25,5 +25,8 @@ Minha experiência inclui **Linux embarcado, processadores ARM** e integração 
 🎓 **Formação:**  
 - Eletrônica - *CEFET-MG*
 
-<!-- SPOTIFY-RECENTLY-PLAYED:START -->
-<!-- SPOTIFY-RECENTLY-PLAYED:END -->
+<div align="center">
+  <a href="https://open.spotify.com/user/e06atxpk4uqp11vmgzn6w0jrl">
+    <img src="https://spotify-github-readme.vercel.app/api?user=e06atxpk4uqp11vmgzn6w0jrl" alt="Spotify Recently Played" />
+  </a>
+</div>
