@@ -24,3 +24,6 @@ Minha experiência inclui **Linux embarcado, processadores ARM** e integração 
 
 🎓 **Formação:**  
 - Eletrônica - *CEFET-MG*
+
+<!-- SPOTIFY-RECENTLY-PLAYED:START -->
+<!-- SPOTIFY-RECENTLY-PLAYED:END -->
