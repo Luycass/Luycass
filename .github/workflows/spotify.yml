@@ -2,20 +2,20 @@ name: Spotify Recently Played
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # Roda a cada hora
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: '0 */1 * * *' # Roda automaticamente a cada 1 hora
+  workflow_dispatch: # Permite rodar manualmente quando quiser
 
 jobs:
   update-readme:
     name: Update Readme with Spotify
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Dá permissão para atualizar o README.md 
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
-      - uses: novathesheep/spotify-recently-played-readme@main
+      - uses: kittinan/spotify-github-profile@master
         with:
           spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          spotify_user_id: 'e06atxpk4uqp11vmgzn6w0jrl'
+          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
